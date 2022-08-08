@@ -135,6 +135,11 @@
        margin: 8% 15% 8% 15%;
        
     }
+    .trailer{
+        align-items: center;
+        width:560px;
+        height:315px;
+    }
 
  
 
