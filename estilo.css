@@ -136,9 +136,21 @@
        
     }
     .trailer{
-        align-items: center;
         width:560px;
         height:315px;
+        margin-left: 397px;
+        margin-top: 35px;
+    }
+    
+    .entradasyMaps{
+        margin-left: 113px;
+        margin-top: 15px;
+    }
+    .instragramLogo{
+        height: 50px;
+        width: 50px;
+        margin: 15px;
+        display: block;
     }
 
  
@@ -217,7 +229,7 @@
         "cuadrado1 cuadrado2"
         "instagram instragram";
         grid-template-columns: 600px 700px;
-        grid-template-rows: 100% 150% 2fr 1fr 100%;
+        grid-template-rows: 100% 150% 1fr 1fr 100%;
     }
 
 
